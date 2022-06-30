@@ -1,5 +1,7 @@
 # 5주차: Ethers.js 실습
 
+Notion: https://smart-top-7ea.notion.site/5-Ethers-js-acba6243c1ef433da8a2f76ba5486cb0
+
 4주차에서는 Hardhat 개발환경 구축과 간단한 컨트랙트를 Alchemy를 통하여 테스트넷에 배포하는 실습을 통하여, 컨트랙트가 어떠한 프로세스로 배포되는지에 대하여 대략적인 흐름을 살펴보았습니다.
 
 **Ethers.js는 개발자가 이더리움 블록체인과 상호 작용할 수 있도록 도와 주는 Javascript 기반 라이브러리입니다.** 5주차에는 Ethers.js 실습을 통하여 Ethers.js의 문법을 익히고, 스마트 컨트랙트에 접근하는 방법들에 대하여 학습할 것입니다.
